@@ -13,3 +13,8 @@ header {
 .welcome-container {
   height: 40vh;
 }
+
+img {
+  height: 50%;
+  width: auto;
+}
