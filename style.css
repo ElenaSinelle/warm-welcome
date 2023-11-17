@@ -1,20 +1,7 @@
-body {
-  margin: 0;
-}
-
-header {
-  min-height: 7vh;
-}
-
 .main-title {
   font-size: 5rem;
 }
 
 .welcome-container {
-  height: 40vh;
-}
-
-img {
-  height: 50%;
-  width: auto;
+  height: 35vh;
 }
