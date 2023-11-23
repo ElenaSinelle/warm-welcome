@@ -1,0 +1,9 @@
+@import "node_modules/rfs/scss";
+
+body {
+  font-size: 16px;
+}
+
+.main-title {
+  @include font-size(4rem);
+}
