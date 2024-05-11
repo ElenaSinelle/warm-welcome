@@ -1,3 +1,5 @@
-## warm-welcome
+# Example landing page created using Bootstrap 
 
-Deploy is [here](https://elenasinelle.github.io/warm-welcome)
+This example landing page familiarizes Customer with a possibility to create an adaptive site using Bootstrap technology.
+
+[Demo](ttps://elenasinelle.github.io/warm-welcome)
